@@ -1,0 +1,8 @@
+.terraform/providers/registry.terraform.io
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+plan.tfplan
+terraform.tfstate
+.aider*
+kali-cloudinit.qcow2
+terraform.tfstate.backup
